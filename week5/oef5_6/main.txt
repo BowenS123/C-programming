@@ -1,0 +1,7 @@
+Je hebt in de vorige oefening een simpele versie van sensor management gamaakt.
+Kopieer je oplossing van die oefening over naar deze folder. 
+Pas nu je code aan zodat het resultaat naar een textfile geprint wordt in plaats
+van naar de standaard output. Het doel is dat de resultaten van elke keer dat je 
+de code runt bewaard blijft met regel tussengeprint om de overgang zichtbaar te maken.
+
+tip: je gaat hier fopen, fprintf en fclose van stdio.h nodig hebben

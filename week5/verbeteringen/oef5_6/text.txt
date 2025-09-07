@@ -1,0 +1,38 @@
+
+***Sensoren overzicht dangerZone***
+temp	inbraak	gas
+19	veilig	normaal
+23	veilig	normaal
+18	INBRAAK	normaal
+EEN INBREKER
+19	INBRAAK	normaal
+EEN INBREKER
+24	veilig	normaal
+17	veilig	normaal
+17	veilig	normaal
+20	veilig	normaal
+18	INBRAAK	normaal
+EEN INBREKER
+20	veilig	normaal
+
+
+***Sensoren overzicht dangerZone***
+temp	inbraak	gas
+23	INBRAAK	gif
+GIFGAS ALARM !!!
+EEN INBREKER
+21	veilig	normaal
+17	veilig	normaal
+16	veilig	normaal
+100	INBRAAK	normaal
+EEN INBREKER
+BRAND!
+22	INBRAAK	normaal
+EEN INBREKER
+24	veilig	normaal
+16	INBRAAK	rook
+ROOKALARM !!!
+EEN INBREKER
+100	veilig	normaal
+BRAND!
+23	veilig	normaal
